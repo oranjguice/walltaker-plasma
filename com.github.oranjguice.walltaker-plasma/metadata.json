@@ -1,0 +1,19 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "oranjguice1@gmail.com",
+                "Name": "oranjguice"
+            }
+        ],
+        "Category": "Fun and Games",
+        "Description": "Plasmoid client for Walltaker",
+        "Icon": "battery",
+        "Id": "com.github.oranjguice.walltaker-plasma",
+        "Name": "Walltaker Client",
+        "Website": "https://github.com/oranjguice/walltaker-plasma",
+        "BugReportUrl": "https://github.com/oranjguice/walltaker-plasma/issues/new/choose"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0",
+        "KPackageStructure": "Plasma/Applet"
+}
